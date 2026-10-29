@@ -72,4 +72,5 @@ This project demonstrates the use of Microsoft Power BI to explore COVID-19 data
 
 ## Author
 Yasira A
+
 Data Analytics Project Portfolio
